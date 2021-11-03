@@ -1,4 +1,4 @@
-19790363331598044
+19790363517472488
 0xcb
 0xCB
 
@@ -42,6 +42,13 @@ resistor
 2
 2
 0xcb
+GCT_USB4105_REVA
+
+
+0
+16
+16
+0xcb
 GCT_USB4120-03-C_REVA
 
 
@@ -55,13 +62,6 @@ JST-SR-4
 0
 6
 4
-0xcb
-MOLEX_2130830005
-
-
-0
-20
-20
 0xcb
 MX_SK6812MINI-E
 Add-on for regular MX-footprints with SK6812 MINI-E
