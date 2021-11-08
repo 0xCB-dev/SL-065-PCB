@@ -1,4 +1,4 @@
-19790363517472488
+19791999941548810
 0xcb
 0xCB
 
@@ -46,8 +46,8 @@ GCT_USB4105_REVA
 
 
 0
-16
-16
+20
+20
 0xcb
 GCT_USB4120-03-C_REVA
 
@@ -76,6 +76,13 @@ QFN NoLead
 0
 75
 45
+0xcb
+SK6812MINI-HS
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
 0xcb
 SL
 
