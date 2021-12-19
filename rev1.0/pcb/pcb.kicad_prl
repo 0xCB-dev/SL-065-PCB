@@ -1,16 +1,16 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer": 31,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.7699999809265137,
       "tracks": 1.0,
       "vias": 0.9700000286102295,
-      "zones": 0.5099999904632568
+      "zones": 0.03999999910593033
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -37,6 +37,7 @@
       9,
       10,
       11,
+      12,
       13,
       14,
       15,

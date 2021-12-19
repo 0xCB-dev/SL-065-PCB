@@ -1,4 +1,4 @@
-19791999942481681
+19822630795752686
 0xcb
 0xCB
 
@@ -14,12 +14,26 @@
 0
 0
 0xcb
+128x64OLED
+
+
+0
+4
+4
+0xcb
 AVR_PROG_2.54_THT
 AVR Programmer 6 pogo pin 2.54 mm spacing
 
 0
 6
 6
+0xcb
+CB-sm
+
+
+0
+0
+0
 0xcb
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
@@ -56,6 +70,13 @@ GCT_USB4120-03-C_REVA
 20
 20
 0xcb
+HRO-TYPE-C-31-M-13
+
+
+0
+20
+17
+0xcb
 JST-SR-4
 
 
@@ -70,6 +91,13 @@ cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 4
 4
 0xcb
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+54
+29
+0xcb
 QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
 QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -83,13 +111,6 @@ cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
 4
 4
-0xcb
-SL
-
-
-0
-0
-0
 0xcb
 SL-S
 
@@ -143,6 +164,13 @@ Cherry MX Keyboard Keyswitch Switch PCB 2.25u
 SW_Cherry_MX_PCB_2.75u
 Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
 Cherry MX Keyboard Keyswitch Switch PCB 2.75u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u
 0
 2
 2
@@ -231,9 +259,23 @@ Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
 0
 0
 0xcb
+Stabilizer_Cherry_MX_3u
+Cherry MX key stabilizer 3u
+Cherry MX key stabilizer 3u
+0
+0
+0
+0xcb
 Stabilizer_Cherry_MX_6.25u
 Cherry MX key stabilizer 6.25u
 Cherry MX key stabilizer 6.25u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_6u
+Cherry MX key stabilizer 6u
+Cherry MX key stabilizer 6u
 0
 0
 0
@@ -245,14 +287,28 @@ Cherry MX key stabilizer 7u
 0
 0
 0xcb
-oshw
-
-
+Stabilizer_Cherry_MX_8u
+Cherry MX key stabilizer 8u 9u 10u
+Cherry MX key stabilizer 8u 9u 10u
 0
 0
 0
 0xcb
-oshwa
+TYPE-C-31-M-12
+
+
+0
+16
+14
+0xcb
+mount
+
+
+0
+1
+1
+0xcb
+oshw
 
 
 0
@@ -6016,6 +6072,27 @@ Capacitor_THT
 C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5HxxxxU_D11.5mm_P10.00mm
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D11.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D19.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor
 0
 2
 2
