@@ -6,11 +6,11 @@ Licence | OSHWA
 ![](https://github.com/0xCB-dev/sl-065-pcb/blob/main/LICENSE.svg) | TBD
 
 ### PCB:
-KiCad version 5.99
+KiCad version 6 stable
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/SL-065-PCB/blob/main/rev1.0/pcb-hotswap.top.png)  |  ![](https://github.com/0xCB-dev/SL-065-PCB/blob/main/rev1.0/pcb-hotswap.bottom.png)
+![](https://github.com/0xCB-dev/SL-065-PCB/blob/main/rev1.0/pcb.top.png)  |  ![](https://github.com/0xCB-dev/SL-065-PCB/blob/main/rev1.0/pcb.bottom.png)
 
 #### BOM:
 
