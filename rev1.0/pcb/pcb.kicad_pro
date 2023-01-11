@@ -60,7 +60,7 @@
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "ignore",
         "clearance": "error",
         "copper_edge_clearance": "ignore",
         "courtyards_overlap": "ignore",

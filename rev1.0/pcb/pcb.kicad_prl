@@ -1,14 +1,14 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer": 31,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.7699999809265137,
-      "tracks": 1.0,
+      "tracks": 0.38999998569488525,
       "vias": 0.9700000286102295,
       "zones": 0.7900000214576721
     },
@@ -57,6 +57,7 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36
@@ -69,6 +70,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "pcb.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 1014,
+          "pos_y": 693,
+          "size_x": 532,
+          "size_y": 875
+        }
+      }
+    ]
   }
 }
