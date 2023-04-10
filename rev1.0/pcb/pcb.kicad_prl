@@ -1,18 +1,18 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Copper Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.6,
-      "pads": 0.7699999809265137,
-      "tracks": 0.38999998569488525,
-      "vias": 0.9700000286102295,
-      "zones": 0.7900000214576721
+      "images": 0.20000000298023224,
+      "pads": 1.0,
+      "tracks": 1.0,
+      "vias": 1.0,
+      "zones": 0.25999999046325684
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -35,7 +35,6 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
@@ -49,8 +48,6 @@
       20,
       21,
       22,
-      23,
-      24,
       25,
       26,
       27,
@@ -61,43 +58,16 @@
       33,
       34,
       35,
-      36,
-      39,
       40
     ],
-    "visible_layers": "0001000_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "0001040_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "pcb.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "pcb.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 483,
-          "pos_y": 907,
-          "size_x": 1698,
-          "size_y": 910
-        }
-      },
-      {
-        "name": "pcb.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 1014,
-          "pos_y": 693,
-          "size_x": 532,
-          "size_y": 848
-        }
-      }
-    ]
+    "files": []
   }
 }
