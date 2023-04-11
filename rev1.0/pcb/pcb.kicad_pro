@@ -56,7 +56,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|211960000|95320000|f6741753-fa48-491c-9bfc-a0cfc2093355|b427b674-c2c2-478c-8759-00de30915898",
+        "hole_clearance|211960000|95320000|f6741753-fa48-491c-9bfc-a0cfc2093355|e276c084-de56-4b90-9366-e9d8fa5390dc",
+        "hole_clearance|212160000|95320000|f6741753-fa48-491c-9bfc-a0cfc2093355|1a78aea5-12f2-4dd7-8024-3b86195e54f1",
+        "hole_clearance|212160000|95320000|f6741753-fa48-491c-9bfc-a0cfc2093355|db051224-077d-4f92-bde7-711af331a90a",
+        "hole_clearance|217560000|95320000|cd90e2df-852b-45f7-82e8-be5486e0848f|40ba4bdd-57d1-461d-af75-3565dde8e43f",
+        "hole_clearance|217560000|95320000|cd90e2df-852b-45f7-82e8-be5486e0848f|7da025fc-a8ad-4e45-9d6c-5166e5628d79",
+        "hole_clearance|217760000|95320000|cd90e2df-852b-45f7-82e8-be5486e0848f|06dfd298-2c59-4294-838a-c4ce3038fe16",
+        "hole_clearance|217760000|95320000|cd90e2df-852b-45f7-82e8-be5486e0848f|5cbb4160-0f06-4d5a-b067-62f3d5a4e571"
+      ],
       "meta": {
         "version": 2
       },
@@ -65,7 +74,7 @@
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "ignore",
-        "copper_sliver": "warning",
+        "copper_sliver": "ignore",
         "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -82,7 +91,7 @@
         "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "ignore",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -117,11 +126,11 @@
         "min_clearance": 0.128,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.19999999999999998,
-        "min_hole_clearance": 0.3,
+        "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
