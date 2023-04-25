@@ -1,0 +1,49 @@
+{
+  "layout": {
+    "type": "grid",
+    "space": "2mm",
+    "rows": "1",
+    "cols": "1"
+  },
+  "source": {
+    "tolerance": "50mm"
+  },
+  "tabs": {
+    "type": "fixed",
+    "width": "5mm",
+    "vcount": "5"
+  },
+  "cuts": {
+    "type": "vcuts",
+    "clearance": "0.5mm"
+  },
+  "framing": {
+    "type": "railstb",
+    "space": "3mm",
+    "width": "5mm",
+    "fillet": "1mm"
+  },
+  "tooling": {
+    "type": "3hole",
+    "hoffset": "2.5mm",
+    "voffset": "2.5mm",
+    "size": "2mm",
+    "paste": "True"
+  },
+  "fiducials": {
+    "type": "3fid",
+    "hoffset": "5mm",
+    "voffset": "3.85mm",
+    "coppersize": "1mm",
+    "opening": "2mm"
+  },
+  "text": {
+    "type": "simple",
+    "text": "SynthLabs 065 PCB by 0xCB Rev1.0",
+    "voffset": "2.5mm"
+  },
+  "post": {
+    "copperfill": "True",
+    "origin": "bl"
+  }
+}
