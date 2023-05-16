@@ -1,0 +1,7 @@
+Run in directory with pcb files
+
+Generate panel from PCB:
+docker run -v $(pwd):/kikit yaqwsx/kikit:v1.3.0-v7 panelize -p ./kikit/edgerails.json ./pcb-hotswap.kicad_pcb ./kikit/rails/pcb-hotswap-rails.kicad_pcb
+
+Generate production files:
+docker run -v $(pwd):/kikit yaqwsx/kikit:v1.3.0-v7 fab jlcpcb --no-drc --assembly --schematic ./pcb-hotswap.kicad_sch ./kikit/rails/pcb-hotswap-rails.kicad_pcb ./kikit/prod
