@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "helios")(type "KiCad")(uri "/home/conor/code/HW/CB/0xCB-Helios/rev1.0/KiCAD_library/symbol/helios.kicad_sym")(options "")(descr ""))
+)
